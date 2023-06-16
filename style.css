@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	margin: 0;
+  }
+  
+  .container {
+	display: flex;
+	flex-direction: center;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	padding: 0 20px;
+	font-family: Arial, sans-serif;
+  }
+  
+  .company-info {
+	text-align: column;
+  }
+  
+  .company-name {
+	font-size: 72px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	margin-right: 150px;
+	letter-spacing: 25px;
+	font-family: 'Atari', sans-serif;
+  }
+  
+  .subtitle {
+	font-size: 72px;
+	color: #28dbff;
+	text-align: center;
+	margin-right: 150px;
+  }
+  
+  .logo img {
+	max-height: 60vh;
+	height: auto;
+  }
+  
